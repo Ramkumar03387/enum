@@ -1,0 +1,5 @@
+
+public enum ConstantValues {
+	SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY, SATURDAY;
+
+}
